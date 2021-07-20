@@ -1,0 +1,2 @@
+.todosList{display:flex;flex-direction:row;flex-wrap:wrap;grid-gap:15px;gap:15px}.todosList__item{list-style:none;width:250px}.nav{display:flex}.todo{border-radius:8px;border:1px solid grey;padding:10px;min-height:140px}.todo__title{color:red}.todo__name{color:green}.todo__item{margin-bottom:5px}
+/*# sourceMappingURL=main.d5a9c52b.chunk.css.map */
